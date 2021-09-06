@@ -4,3 +4,6 @@ body {
 h1 {
 	font-variant: small-caps;
 }
+img {
+	width: 50%;
+}
